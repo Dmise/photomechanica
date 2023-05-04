@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRYTXU8V9y4LQisOkkY9vhhLxZDo074OuajAbNzhll7xjU81nDfZCmTZ4wGiWWxHZIPpoF4qboGtOx7Vhz8NHg==",
+  "success": true,
+  "projectFilePath": "A:\\Programming\\TestTasks\\Photomechanica\\InterviewTasks\\InterviewTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmise\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dmise\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\dmise\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
